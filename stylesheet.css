@@ -1,0 +1,21 @@
+.ap-wc-cart-item {
+	display: flex;
+}
+
+.ap-wc-cart-image {
+	max-width: 30%;
+	display: inline-block;
+	padding: 10px;
+}
+
+.ap-wc-cart-text {
+	max-width: 70%;
+	display: inline-block;
+	font-family: Work Sans;
+	font-size: 14px;
+	padding: 10px;
+}
+
+hr.ap-wc-cart {
+	border: 1px solid #F5F5F5;
+}
