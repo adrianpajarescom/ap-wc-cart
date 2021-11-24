@@ -18,7 +18,7 @@ function ap_wc_cart_enqueue_styles() {
 	);
 
 	wp_enqueue_style( 
-		'sp_sytlesheet', $file_url
+		'ap_wc_cart_sp_sytlesheet', $file_url
 	);
 }
 
