@@ -4,7 +4,7 @@
  * Plugin Name:       adrianpajares.com - WooCommerce Cart
  * Plugin URI:        https://adrianpajares.com/
  * Description:       Plugin to show a WooCommerce resume cart. Use this shortcode to show it [ap_wc_cart].
- * Version:           1.0
+ * Version:           1.1
  * Author:            adrianpajares.com
  * License:           MIT
 */
